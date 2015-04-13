@@ -9,7 +9,8 @@
 \contentsline {subsection}{\numberline {4.2}OBJETIVO GENERAL}{6}
 \contentsline {subsection}{\numberline {4.3}OBJETIVOS ESPEC\IeC {\'I}FICOS}{6}
 \contentsline {subsection}{\numberline {4.4}EJECUCI\IeC {\'O}N DE ACTIVIDADES REALIZADAS}{6}
-\contentsline {section}{\numberline {5}RELACI\IeC {\'O}N DEL PROYECTO TRABAJADO CON LA FORMACI\IeC {\'O}N ACAD\IeC {\'E}MICA DEL\\ ESTUDIANTE}{7}
-\contentsline {section}{\numberline {6}CONCLUSIONES}{8}
-\contentsline {section}{\numberline {7}RECOMENDACIONES}{9}
-\contentsline {section}{\numberline {8}ANEXOS}{10}
+\contentsline {section}{\numberline {5}RELACI\IeC {\'O}N DEL PROYECTO TRABAJADO CON LA FORMACI\IeC {\'O}N ACAD\IeC {\'E}MICA DEL\\ ESTUDIANTE}{8}
+\contentsline {section}{\numberline {6}CONCLUSIONES}{9}
+\contentsline {section}{\numberline {7}RECOMENDACIONES}{10}
+\contentsline {section}{\numberline {8}BIBLIOGRAF\IeC {\'I}A}{11}
+\contentsline {section}{\numberline {9}ANEXOS}{12}
