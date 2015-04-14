@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.12)  12 APR 2015 22:07
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.12)  12 APR 2015 22:35
+>>>>>>> parent of 4fa9ea3... Empezando actividades
 entering extended mode
 **InformeSC.tex
 
@@ -425,6 +429,7 @@ Overfull \hbox (26.57886pt too wide) in paragraph at lines 8--8
 
 )
 \tf@toc=\write3
+<<<<<<< HEAD
  [2] [3] [4] [5] [6] [7] [8] [9] [10]
 ("C:\Users\Alejandro\Documents\Clases\Ene-Mar15 (Sep-Dic)\SC\Informe\InformeSC.
 aux") ) 
@@ -440,6 +445,25 @@ Here is how much of TeX's memory you used:
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
 b>
 Output written on InformeSC.pdf (10 pages, 77588 bytes).
+=======
+ [2] [3] [4] [5] [6] [7] [8] [9]
+("C:\Users\Alejandro\Documents\Clases\Ene-Mar15 (Sep-Dic)\SC\Informe\InformeSC.
+bbl") [10]
+("C:\Users\Alejandro\Documents\Clases\Ene-Mar15 (Sep-Dic)\SC\Informe\InformeSC.
+aux") ) 
+Here is how much of TeX's memory you used:
+ 2502 strings out of 493921
+ 33197 string characters out of 3144863
+ 96734 words of memory out of 3000000
+ 5784 multiletter control sequences out of 15000+200000
+ 8500 words of font info for 30 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,4n,27p,358b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
+b>
+Output written on InformeSC.pdf (10 pages, 79964 bytes).
+>>>>>>> parent of 4fa9ea3... Empezando actividades
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
