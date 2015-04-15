@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (MiKTeX 2.9) (preloaded format=xelatex 2015.4.13)  13 APR 2015 22:34
+This is XeTeX, Version 3.1415926-2.4-0.9998 (MiKTeX 2.9) (preloaded format=xelatex 2015.4.13)  15 APR 2015 04:38
 entering extended mode
 **InformeSC.tex
 
@@ -618,16 +618,16 @@ r.otf
 Requested font "[lmroman12-bold]:mapping=tex-text" at 14.4pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-bold.o
 tf
- [5] [6] [7] [8] [9] [10] [11]
+ [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
 ("C:\Users\Alejandro\Documents\Clases\Ene-Mar15 (Sep-Dic)\SC\Informe\InformeSC.
 aux") ) 
 Here is how much of TeX's memory you used:
  14427 strings out of 429035
  293583 string characters out of 3166907
- 345875 words of memory out of 3000000
+ 350875 words of memory out of 3000000
  17616 multiletter control sequences out of 15000+200000
  6496 words of font info for 38 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
- 53i,4n,41p,10432b,198s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,8n,41p,10432b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on InformeSC.pdf (11 pages).
+Output written on InformeSC.pdf (15 pages).
