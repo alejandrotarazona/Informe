@@ -1,26 +1,25 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {1}INTRODUCCIÓN}{3}
-\contentsline {section}{\numberline {2}JUSTIFICACIÓN DEL SERVICIO COMUNITARIO}{4}
-\contentsline {section}{\numberline {3}DESCRIPCIÓN DEL PROBLEMA}{5}
-\contentsline {subsection}{\numberline {3.1}DESCRIPCIÓN DE LA COMUNIDAD}{5}
-\contentsline {subsection}{\numberline {3.2}ANTECEDENTES DEL PROYECTO}{5}
-\contentsline {section}{\numberline {4}DESARROLLO DEL PROYECTO}{6}
-\contentsline {subsection}{\numberline {4.1}TÍTULO DEL PROYECTO}{6}
-\contentsline {subsection}{\numberline {4.2}OBJETIVO GENERAL}{6}
-\contentsline {subsection}{\numberline {4.3}OBJETIVOS ESPECÍFICOS}{6}
-\contentsline {subsection}{\numberline {4.4}EJECUCIÓN DE ACTIVIDADES REALIZADAS}{6}
-\contentsline {subsubsection}{\numberline {4.4.1}\relax $\@@underline {\hbox {Recibir capacitación en educación de adultos.}}\mathsurround \z@ $\relax }{6}
-\contentsline {subsubsection}{\numberline {4.4.2}\relax $\@@underline {\hbox {Realizar entrevistas a los obreros.}}\mathsurround \z@ $\relax }{7}
-\contentsline {subsubsection}{\numberline {4.4.3}\relax $\@@underline {\hbox {Hacer diagnostico de cada participante.}}\mathsurround \z@ $\relax }{7}
-\contentsline {subsubsection}{\numberline {4.4.4}\relax $\@@underline {\hbox {Elaborar planes de capacitación.}}\mathsurround \z@ $\relax }{7}
-\contentsline {subsubsection}{\numberline {4.4.5}\relax $\@@underline {\hbox {Elaboración de planes de capacitación}}\mathsurround \z@ $\relax }{8}
-\contentsline {subsubsection}{\numberline {4.4.6}\relax $\@@underline {\hbox {Preparar material de apoyo.}}\mathsurround \z@ $\relax }{9}
-\contentsline {subsubsection}{\numberline {4.4.7}\relax $\@@underline {\hbox {Dictar clases en cursos de capacitación.}}\mathsurround \z@ $\relax }{9}
-\contentsline {subsubsection}{\numberline {4.4.8}\relax $\@@underline {\hbox {Acompañar en el proceso de aprendizaje.}}\mathsurround \z@ $\relax }{10}
-\contentsline {subsubsection}{\numberline {4.4.9}\relax $\@@underline {\hbox {Validar logros de los participantes.}}\mathsurround \z@ $\relax }{10}
-\contentsline {subsubsection}{\numberline {4.4.10}\relax $\@@underline {\hbox {Elaboración de Informe Final.}}\mathsurround \z@ $\relax }{10}
-\contentsline {section}{\numberline {5}RELACIÓN DEL PROYECTO TRABAJADO CON LA FORMACIÓN ACADÉMICA DEL ESTUDIANTE}{11}
-\contentsline {section}{\numberline {6}CONCLUSIONES}{12}
-\contentsline {section}{\numberline {7}RECOMENDACIONES}{13}
-\contentsline {section}{\numberline {8}BIBLIOGRAFÍA}{14}
-\contentsline {section}{\numberline {9}ANEXOS}{15}
+\contentsline {section}{\numberline {1}JUSTIFICACIÓN DEL SERVICIO COMUNITARIO}{4}
+\contentsline {section}{\numberline {2}DESCRIPCIÓN DEL PROBLEMA}{5}
+\contentsline {subsection}{\numberline {2.1}DESCRIPCIÓN DE LA COMUNIDAD}{5}
+\contentsline {subsection}{\numberline {2.2}ANTECEDENTES DEL PROYECTO}{5}
+\contentsline {section}{\numberline {3}DESARROLLO DEL PROYECTO}{6}
+\contentsline {subsection}{\numberline {3.1}TÍTULO DEL PROYECTO}{6}
+\contentsline {subsection}{\numberline {3.2}OBJETIVO GENERAL}{6}
+\contentsline {subsection}{\numberline {3.3}OBJETIVOS ESPECÍFICOS}{6}
+\contentsline {subsection}{\numberline {3.4}EJECUCIÓN DE ACTIVIDADES REALIZADAS}{6}
+\contentsline {subsubsection}{\numberline {3.4.1}Recibir capacitación en educación de adultos.}{6}
+\contentsline {subsubsection}{\numberline {3.4.2}Realizar entrevistas a los obreros}{7}
+\contentsline {subsubsection}{\numberline {3.4.3}Hacer diagnostico de cada participante}{7}
+\contentsline {subsubsection}{\numberline {3.4.4}Elaborar planes de capacitación}{7}
+\contentsline {subsubsection}{\numberline {3.4.5}Elaboración de planes de capacitación}{8}
+\contentsline {subsubsection}{\numberline {3.4.6}Preparar material de apoyo}{9}
+\contentsline {subsubsection}{\numberline {3.4.7}Dictar clases en cursos de capacitación}{10}
+\contentsline {subsubsection}{\numberline {3.4.8}Acompañar en el proceso de aprendizaje}{10}
+\contentsline {subsubsection}{\numberline {3.4.9}Validar logros de los participantes}{10}
+\contentsline {subsubsection}{\numberline {3.4.10}Elaboración de Informe Final}{11}
+\contentsline {section}{\numberline {4}RELACIÓN DEL PROYECTO TRABAJADO CON LA FORMACIÓN ACADÉMICA DEL ESTUDIANTE}{12}
+\contentsline {section}{\numberline {5}CONCLUSIONES}{13}
+\contentsline {section}{\numberline {6}RECOMENDACIONES}{14}
+\contentsline {section}{\numberline {7}BIBLIOGRAFÍA}{15}
+\contentsline {section}{\numberline {8}ANEXOS}{16}
