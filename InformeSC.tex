@@ -1,16 +1,25 @@
-\documentclass[letterpaper,12pt]{article}
+\documentclass[letterpaper,12pt]{report}
 
 \usepackage{polyglossia}
 \setdefaultlanguage{spanish}
 
+%\usepackage[spanish]{babel}
 %\usepackage[utf8]{inputenc}
 
 \usepackage{graphicx}
 \usepackage{footnote}
-\usepackage[top=2.5cm, left=2.5cm, right=2.5cm, bottom=2.5cm]{geometry}
-\linespread{1.0}
+\usepackage[top=2.5cm, left=3cm, right=3cm, bottom=2.5cm]{geometry}
+
+\linespread{1.5}
+
+\setlength{\parskip}{2ex}
 \parindent 3ex
-\makeindex
+
+\usepackage[backend=biber]{biblatex}
+
+%\bibliographystyle{plain}
+\bibliography{Bibliografia/biblio}
+
      
 \DeclareGraphicsExtensions{.jpg,.pdf,.png}
 
@@ -29,8 +38,6 @@
 		Soraya Carrasquel \\
 		\underline{\textbf{Representante de la Comunidad:}}\\
 		José Bermúdez
-%		\linebreak
-%       \linebreak
         \vfill
 		\underline{\textbf{Fecha de Culminación:}}\\
         17 de abril de 2015
@@ -39,10 +46,7 @@
 	\end{center}
 	\pagebreak
     
-    \tableofcontents
-    
-	\pagebreak
-	
+    \tableofcontents	
     
     \input{Introduccion/introduccion}
 	
@@ -53,16 +57,14 @@
     \input{Desarrollo/desarrollo}
 	
 	\input{Relacion/relacion}
-	
+
 	\input{Conclusiones/conclusiones}
 	
     \input{Recomendaciones/recomendaciones}
     
-	\section{BIBLIOGRAFÍA}
-    
-	\pagebreak
+    \input{Bibliografia/bibliografia}
 	
-	\section{ANEXOS}
+    \input{Anexos/anexos}
 
 
 
