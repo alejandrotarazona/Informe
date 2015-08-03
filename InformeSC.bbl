@@ -1,0 +1,227 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{}
+    \entry{infocentro}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=31a0ba6a2eb9ebbe89705f74d49c3c6a}{Comunicación\bibnamedelimb Estratégica\bibnamedelima FI}{C\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim F\bibinitperiod}{Oficina}{O\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=31a0ba6a2eb9ebbe89705f74d49c3c6a}{Comunicación\bibnamedelimb Estratégica\bibnamedelima FI}{C\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim F\bibinitperiod}{Oficina}{O\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{31a0ba6a2eb9ebbe89705f74d49c3c6a}
+      \strng{fullhash}{31a0ba6a2eb9ebbe89705f74d49c3c6a}
+      \field{sortinit}{C}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica alcanzará las 500 mil personas capacitadas}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica alcanzará las 500 mil personas capacitadas}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.aporrea.org/actualidad/n131546.html
+      \endverb
+    \endentry
+    \entry{PNAT}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnologica}
+      \field{month}{10}
+      \field{title}{Plan Nacional de Alfabetización Tecnologica}
+      \field{year}{2009}
+    \endentry
+    \entry{writer}{suppcollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica}
+      \field{booktitle}{Desarrollando nuestras ndeas en un procesador de palabras}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica}
+      \warn{\item Datamodel: Entry 'writer' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{calc}{suppcollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica}
+      \field{booktitle}{Calculando y graficando datos con la hoja de cálculo}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica}
+      \warn{\item Datamodel: Entry 'calc' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{impress}{suppcollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica}
+      \field{booktitle}{Comunicando a través de presentaciones creativas con Impress}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica}
+      \warn{\item Datamodel: Entry 'impress' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{planSC}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=7aca5ec618f7317328dcd7014cf9bdcf}{USB}{U\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7aca5ec618f7317328dcd7014cf9bdcf}{USB}{U\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{7aca5ec618f7317328dcd7014cf9bdcf}
+      \strng{fullhash}{7aca5ec618f7317328dcd7014cf9bdcf}
+      \field{sortinit}{U}
+      \field{labeltitle}{Plan de Servicio Comunitario}
+      \field{title}{Plan de Servicio Comunitario}
+      \field{urlday}{25}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb https://www.cctds.dex.usb.ve/SC/vVerProyecto.php?id=261
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{nty}
+    \entry{infocentro}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=31a0ba6a2eb9ebbe89705f74d49c3c6a}{Comunicación\bibnamedelimb Estratégica\bibnamedelima FI}{C\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim F\bibinitperiod}{Oficina}{O\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=31a0ba6a2eb9ebbe89705f74d49c3c6a}{Comunicación\bibnamedelimb Estratégica\bibnamedelima FI}{C\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim F\bibinitperiod}{Oficina}{O\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{31a0ba6a2eb9ebbe89705f74d49c3c6a}
+      \strng{fullhash}{31a0ba6a2eb9ebbe89705f74d49c3c6a}
+      \field{sortinit}{C}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica alcanzará las 500 mil personas capacitadas}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica alcanzará las 500 mil personas capacitadas}
+      \field{urlday}{15}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.aporrea.org/actualidad/n131546.html
+      \endverb
+    \endentry
+    \entry{PNAT}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnologica}
+      \field{month}{10}
+      \field{title}{Plan Nacional de Alfabetización Tecnologica}
+      \field{year}{2009}
+    \endentry
+    \entry{writer}{suppcollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica}
+      \field{booktitle}{Desarrollando nuestras ndeas en un procesador de palabras}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica}
+      \warn{\item Datamodel: Entry 'writer' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{calc}{suppcollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica}
+      \field{booktitle}{Calculando y graficando datos con la hoja de cálculo}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica}
+      \warn{\item Datamodel: Entry 'calc' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{impress}{suppcollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e72128030c6a915363985bf7153d986a}{Infocentro}{I\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e72128030c6a915363985bf7153d986a}
+      \strng{fullhash}{e72128030c6a915363985bf7153d986a}
+      \field{sortinit}{I}
+      \field{labeltitle}{Plan Nacional de Alfabetización Tecnológica}
+      \field{booktitle}{Comunicando a través de presentaciones creativas con Impress}
+      \field{title}{Plan Nacional de Alfabetización Tecnológica}
+      \warn{\item Datamodel: Entry 'impress' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring}
+    \endentry
+    \entry{planSC}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=7aca5ec618f7317328dcd7014cf9bdcf}{USB}{U\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7aca5ec618f7317328dcd7014cf9bdcf}{USB}{U\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{7aca5ec618f7317328dcd7014cf9bdcf}
+      \strng{fullhash}{7aca5ec618f7317328dcd7014cf9bdcf}
+      \field{sortinit}{U}
+      \field{labeltitle}{Plan de Servicio Comunitario}
+      \field{title}{Plan de Servicio Comunitario}
+      \field{urlday}{25}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb https://www.cctds.dex.usb.ve/SC/vVerProyecto.php?id=261
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,25 +1,51 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \select@language {spanish}
-\contentsline {section}{\numberline {1}JUSTIFICACIÓN DEL SERVICIO COMUNITARIO}{4}
-\contentsline {section}{\numberline {2}DESCRIPCIÓN DEL PROBLEMA}{5}
-\contentsline {subsection}{\numberline {2.1}DESCRIPCIÓN DE LA COMUNIDAD}{5}
-\contentsline {subsection}{\numberline {2.2}ANTECEDENTES DEL PROYECTO}{5}
-\contentsline {section}{\numberline {3}DESARROLLO DEL PROYECTO}{6}
-\contentsline {subsection}{\numberline {3.1}TÍTULO DEL PROYECTO}{6}
-\contentsline {subsection}{\numberline {3.2}OBJETIVO GENERAL}{6}
-\contentsline {subsection}{\numberline {3.3}OBJETIVOS ESPECÍFICOS}{6}
-\contentsline {subsection}{\numberline {3.4}EJECUCIÓN DE ACTIVIDADES REALIZADAS}{6}
-\contentsline {subsubsection}{\numberline {3.4.1}Recibir capacitación en educación de adultos.}{6}
-\contentsline {subsubsection}{\numberline {3.4.2}Realizar entrevistas a los obreros}{7}
-\contentsline {subsubsection}{\numberline {3.4.3}Hacer diagnostico de cada participante}{7}
-\contentsline {subsubsection}{\numberline {3.4.4}Elaborar planes de capacitación}{7}
-\contentsline {subsubsection}{\numberline {3.4.5}Elaboración de planes de capacitación}{8}
-\contentsline {subsubsection}{\numberline {3.4.6}Preparar material de apoyo}{9}
-\contentsline {subsubsection}{\numberline {3.4.7}Dictar clases en cursos de capacitación}{10}
-\contentsline {subsubsection}{\numberline {3.4.8}Acompañar en el proceso de aprendizaje}{10}
-\contentsline {subsubsection}{\numberline {3.4.9}Validar logros de los participantes}{10}
-\contentsline {subsubsection}{\numberline {3.4.10}Elaboración de Informe Final}{11}
-\contentsline {section}{\numberline {4}RELACIÓN DEL PROYECTO TRABAJADO CON LA FORMACIÓN ACADÉMICA DEL ESTUDIANTE}{12}
-\contentsline {section}{\numberline {5}CONCLUSIONES}{13}
-\contentsline {section}{\numberline {6}RECOMENDACIONES}{14}
-\contentsline {section}{\numberline {7}BIBLIOGRAFÍA}{15}
-\contentsline {section}{\numberline {8}ANEXOS}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{INTRODUCCIÓN}{4}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Justificación del servicio comunitario}{5}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Descripción del problema}{7}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Descripción de la Comunidad}{7}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Antecedentes del Proyecto}{7}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Desarrollo del Proyecto}{9}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Título del Proyecto}{9}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Obejtivo General}{9}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Objetivos Específicos}{9}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Ejecución de Actividades Realizadas}{10}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Recibir capacitación en educación de adultos.}{10}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Realizar entrevistas a los obreros}{10}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.3}Hacer diagnostico de cada participante}{10}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.4}Elaborar planes de capacitación}{11}{subsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.5}Preparar material de apoyo}{14}{subsection.3.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.6}Dictar clases en cursos de capacitación}{14}{subsection.3.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.7}Acompañar en el proceso de aprendizaje}{14}{subsection.3.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.8}Validar logros de los participantes}{15}{subsection.3.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.9}Elaboración de Informe Final}{16}{subsection.3.4.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Relación del proyecto trabajado con la dormación académica del estudiante}{17}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusiones}{18}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Recomendaciones}{19}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografía}{20}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Anexos}{21}{chapter*.6}
