@@ -1,22 +1,22 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
-[0] Config.pm:321> INFO - Logfile is 'InformeSC.blg'
-[245] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
-[246] Biber.pm:333> INFO - Reading 'InformeSC.bcf'
-[374] Utils.pm:169> WARN - Warning: Found biblatex control file version 2.7, expected version 2.5
-[375] Biber.pm:630> INFO - Found 6 citekeys in bib section 0
-[577] Biber.pm:3053> INFO - Processing section 0
-[838] Biber.pm:3190> INFO - Looking for bibtex format file 'Bibliografia/biblio.bib' for section 0
-[843] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[845] bibtex.pm:812> INFO - Found BibTeX data source 'Bibliografia/biblio.bib'
-[1008] Utils.pm:169> WARN - Datamodel: Entry 'writer' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring
-[1009] Utils.pm:169> WARN - Datamodel: Entry 'calc' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring
-[1010] Utils.pm:169> WARN - Datamodel: Entry 'impress' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring
-[1311] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1311] Biber.pm:2945> INFO - Sorting 'entry' list '' keys
-[1311] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
-[1344] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1344] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
-[1344] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
-[1368] bbl.pm:482> INFO - Writing 'InformeSC.bbl' with encoding 'UTF-8'
-[1372] bbl.pm:555> INFO - Output to InformeSC.bbl
-[1372] Biber.pm:105> INFO - WARNINGS: 4
+[1] Config.pm:321> INFO - Logfile is 'InformeSC.blg'
+[126] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
+[127] Biber.pm:333> INFO - Reading 'InformeSC.bcf'
+[258] Utils.pm:169> WARN - Warning: Found biblatex control file version 2.7, expected version 2.5
+[259] Biber.pm:630> INFO - Found 6 citekeys in bib section 0
+[310] Biber.pm:3053> INFO - Processing section 0
+[355] Biber.pm:3190> INFO - Looking for bibtex format file 'Bibliografia/biblio.bib' for section 0
+[361] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[362] bibtex.pm:812> INFO - Found BibTeX data source 'Bibliografia/biblio.bib'
+[390] Utils.pm:169> WARN - Datamodel: Entry 'writer' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring
+[391] Utils.pm:169> WARN - Datamodel: Entry 'calc' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring
+[392] Utils.pm:169> WARN - Datamodel: Entry 'impress' (Bibliografia/biblio.bib): Invalid format 'Abril 2009' of date field 'date' - ignoring
+[456] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[457] Biber.pm:2945> INFO - Sorting 'entry' list '' keys
+[457] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
+[480] Biber.pm:2939> INFO - Overriding locale 'English_United States.1252' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[481] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
+[481] Biber.pm:2949> INFO - No sort tailoring available for locale 'English_United States.1252'
+[500] bbl.pm:482> INFO - Writing 'InformeSC.bbl' with encoding 'UTF-8'
+[504] bbl.pm:555> INFO - Output to InformeSC.bbl
+[506] Biber.pm:105> INFO - WARNINGS: 4

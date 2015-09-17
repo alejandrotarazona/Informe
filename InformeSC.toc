@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {spanish}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{INTRODUCCIÓN}{4}{chapter*.2}
+\contentsline {chapter}{Introducción}{4}{chapter*.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Justificación del servicio comunitario}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
@@ -26,7 +26,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.2}Realizar entrevistas a los obreros}{10}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Hacer diagnostico de cada participante}{10}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.3}Hacer diagnóstico de cada participante}{10}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.4}Elaborar planes de capacitación}{11}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
@@ -40,7 +40,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.9}Elaboración de Informe Final}{16}{subsection.3.4.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Relación del proyecto trabajado con la dormación académica del estudiante}{17}{chapter.4}
+\contentsline {chapter}{\numberline {4}Relación del proyecto trabajado con la formación académica del estudiante}{17}{chapter.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Conclusiones}{18}{chapter*.3}
 \defcounter {refsection}{0}\relax 
